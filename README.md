@@ -8,6 +8,7 @@ This project is a personal portfolio website. It includes sections about my skil
 - Portfolio gallery
 - Contact form
 
+
 ## Setup Instructions
 To set up this project locally:
 1. Clone the repository:
